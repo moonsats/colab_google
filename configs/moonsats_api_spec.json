@@ -1,0 +1,24 @@
+{
+    "scopes": [
+        "https://www.googleapis.com/auth/spreadsheets",
+        "https://www.googleapis.com/auth/drive",
+        "https://www.googleapis.com/auth/calendar",
+        "https://mail.google.com/",
+        "https://www.googleapis.com/auth/script.projects",
+        "https://www.googleapis.com/auth/script.scriptapp", 
+        "https://www.googleapis.com/auth/documents",
+        "https://www.googleapis.com/auth/presentations",
+        "https://www.googleapis.com/auth/photoslibrary",
+        "https://www.googleapis.com/auth/cloud-platform"
+    ],
+    "version": {
+        "script": "v1",
+        "sheets": "v4",
+        "docs": "v1",
+        "drive": "v3",
+        "calendar": "v3",
+        "gmail": "v1",
+        "mail": null,
+        "gspread": null
+    }
+}

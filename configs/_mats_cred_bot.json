@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "mats-299900",
+    "private_key_id": "1a49c7ad82e8821f66be720c68e47ad64444e3c1",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCebEBr+VAVNbE2\nt459MnXEjJOZk0lLnxgyhspm6SDhwngV8VQ4lINdkJ+7LSoTtqFF4O3lwxoYjQb6\niJTQvkqii0k8DDXvrY66o9YidFXau5XNmbvCEUKnkMBq8hxwB4Rw8s81JrkUaIuS\nOqfnTnVsfQYVxP39qQRAHOcfdRYdQvGrlAaPlx6Ox7ui7SyuZsgA/ZVKQuaUlEDo\ngi3ARVJKfMvYwGdfB20rPxr5XDW+6LQG1GIFv8CStLaOe4qdUObIbarj5it8U+zi\noavKpCZcO1QZfDEDOAwtp7+k+aomRa1Zv/PfkawlgT9IW8GPlzbacYGUA2pPDhiw\nxFSNhMC1AgMBAAECggEAC1buSYw/6jS8qZD79wQsn9P8IKsFPQ93OO6jADjBrMcx\nt0hd4erneEQI2uoBsAWLh6fw/1g2vvkhPb+W/1YPm5DivhSVq8E9jSh7BF5VYuG4\neE3/vYVkwv++dik8VdyD413N7R0HdGmDTAU8zXa1Ov27+MTv9T8q2bf35y2HVrK+\nAbFpT3ciXW80Cn94Aq1I08KUDpCwbl0CtZEfuYEefKzpurKgLamcxVaGsYN9j04Z\n1j8UiUKAzCTPolRyyH9GZuPxXe746Q2ByBuHd15m8X+WXyds7QPGEfVdhzHD4WQ3\nCj1qhfoukuh7lBnN4OimGWbiuO8p6EM/cxb2ATqnIQKBgQDf6A92o0KiGQmVh3d/\nOnjZxCEm/OjkH30P01nb+cQW8FJfcKGrR60c5IBbyJ7pqOwdXv/fd0CwUxJ7o4yK\nzNFnbiIDj4T6ffTLnghqqvz1cG+gyDOckyyRsVTaMF50YWbnAsMAShT/FFJwUxq5\nkhMn1Ue+fWJ94X6oOV07xeF6zQKBgQC1IVwfrJCiaVLjRavJKvMkXw5R+J0+RB1o\ntxVd6Sq8GaObajqgygjsFXMpfuCaBtWBvD6qYEVug8L8Xq1zkNz8XpaDX35zaDg6\njl0jfw2bV9IJuFPfO4/532djmMWb3aQV77Y9BGUEGwC4/O2JSdWI/LSIirXxUPSv\n6nlRolQtiQKBgC6kVLROBg9mT8zKT2Y9c/dJF+7bOFhtBsxJJqrgOKzemwoumD7p\ny3H9V4/HFvNtsOHdbEfMu7j/VRZUV26ChAybsJI1T2ou2tOfs/kkbVVjep1vlvDC\n58Hhwt9AvCxaLelpdd2VkRIh1Zp4dVS6zSq7DxrrW50FYDEC4h0Vd4bxAoGBAK7a\nj3Y8Pjuq9UtVHKrMfX/lC4vyNsm/M6y84TGRP6HqFliXyhUiNE7DvjKWuve2FTJy\nqQQMf7paFEdQlpzzgYFXRnF4JDgAqhdNC3iS1G3b73VWrhDYDPsowUQSXOFEq3xJ\ntmFc9q9p6d6qvBxGXI8rdJRDY7SbdDrGXWuDC0QRAoGAQJzwW+bZ39DPNGc9TeZm\n0HgewghdFmRGh8TpHkC1vycUd2bYOhVxf5a2wqA2/AEfUW6d61IwgTstbXvZ+6ma\nmmPcn7CZvbQAD6OV7X2VpDbhiSjVkze3hr+ZxUUE2OCt3mHHIody46DIKjlVOTKf\nwWP2Fm3dHd0raFd9rst/5Bc=\n-----END PRIVATE KEY-----\n",
+    "api_key": "AIzaSyDmwMgEADYAZ0pNTI71M3CZx5wqCUzaDD0",
+    "client_email": "mats-admin@mats-299900.iam.gserviceaccount.com",
+    "client_id": "102867732140894115797",
+    "script_client_id": "981636747947-0255rmljct64t0c6orvrji16pe0ufhje.apps.googleusercontent.com",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mats-admin%40mats-299900.iam.gserviceaccount.com"
+}

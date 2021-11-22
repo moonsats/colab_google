@@ -1,0 +1,20 @@
+{
+    "token": "ya29.a0ARrdaM8MyZVakdP48y0qceCXFM9rxA0EVpocbpeLpMRpcSAP3s1A8ZV21EaX44YZ6P2quv2VF3oOOwFLfq2vOMtwPFtWiVm-r0ka_Uvc8Jel8ziIVVZhw6I7Z6_gxh9YSLLhE9ZQ1-8pL0qCgvfWBaWybwQGQA",
+    "refresh_token": "1//0el19RW3P4t1KCgYIARAAGA4SNwF-L9Irx9uFhOjs23pgNMmxviraDMEvikyaKdqBLpPFgGqyZWJ47Xx6xQc3qVNbAz0WisHdjCQ",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "client_id": "516674090890-4ul0oikl5hv9umrg0ffqblbek14b9pqg.apps.googleusercontent.com",
+    "client_secret": "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",
+    "scopes": [
+        "https://www.googleapis.com/auth/spreadsheets",
+        "https://www.googleapis.com/auth/drive",
+        "https://www.googleapis.com/auth/calendar",
+        "https://mail.google.com/",
+        "https://www.googleapis.com/auth/script.projects",
+        "https://www.googleapis.com/auth/script.scriptapp",
+        "https://www.googleapis.com/auth/documents",
+        "https://www.googleapis.com/auth/presentations",
+        "https://www.googleapis.com/auth/photoslibrary",
+        "https://www.googleapis.com/auth/cloud-platform"
+    ],
+    "expiry": "2021-11-21T02:31:03.127180Z"
+}
